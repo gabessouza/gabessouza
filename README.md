@@ -1,10 +1,20 @@
-## Oi, meu nome é Gabriel. Bem vindo ao meu GitHub!
+## Oi, meu nome é Gabriel. Bem-vindo ao meu GitHub!
  <div>
   <a href="https://github.com/gabessouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabessouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+## No momento estou aprendendo: 
 <div style="display: inline_block"><br>
-  <img align="center" alt="gabes-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="gabes-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="gabes-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="gabes-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
+
+ ## Atualmente programo em: 
+<div style="display: inline_block"><br>
+  <img align="center" alt="gabes-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="gabes-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
   
   ##
