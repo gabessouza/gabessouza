@@ -15,19 +15,15 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </p>
  
- <h4 align="center"> ✨ Estudante vigente do curso de Análise e Desenvolvimento de Sistemas, busco conhecimento e especialização na área de Front-End, buscando um constantemente estudar e conhecer mais ainda sobre o mundo da programação e técnologia ✨ </h4>
+ <h4 align="center"> ✨ Estudante, busco conhecimento e especialização na área de Front-End, buscando um constantemente estudar e conhecer mais ainda sobre o mundo da programação e tecnologia ✨ </h4>
  
  <br>
- 
- ### 🎓 Formação acadêmica:
- • Universidade Santo Amaro - Jun/2020/Jun23
  
  ### 💻 Meus conhecimentos:
  
  ***Estou estudando atualmente:***
  
  <p align="left">
-  <img img align="center" alt="gabes-csharp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img img align="center" alt="gabes-html5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img img align="center" alt="gabes-css" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img img align="center" alt="gabes-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
